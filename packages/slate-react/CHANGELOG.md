@@ -1,5 +1,11 @@
 # slate-react
 
+## 0.98.3
+
+### Patch Changes
+
+- [`e93c8858`](https://github.com/ianstormtaylor/slate/commit/e93c8858e5fed71404f1232e85c9edebebf486d0) Thanks [@janpaepke](https://github.com/janpaepke)! - bugfix: slate breaks on load on safari < 16.4
+
 ## 0.98.2
 
 ### Patch Changes
